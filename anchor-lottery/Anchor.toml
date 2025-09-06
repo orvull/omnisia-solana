@@ -1,0 +1,12 @@
+[programs.localnet]
+lottery = "LoTTery1111111111111111111111111111111111111"
+
+[registry]
+url = "https://api.devnet.solana.com"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "anchor test"

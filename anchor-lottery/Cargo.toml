@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "programs/lottery"
+]
+resolver = "2"
